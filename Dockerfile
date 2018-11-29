@@ -29,6 +29,7 @@ RUN apt-get -qq update \
                       rsyslog \
                       udev \
                       iptables \
+                      systemd \
                       kmod
 
 # Update locales
