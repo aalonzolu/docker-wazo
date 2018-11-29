@@ -1,5 +1,5 @@
 # wazo docker installation
-FROM debian:jessie
+FROM debian:stretch
 MAINTAINER C.U.tech "cody@c-u-tech.com" (XiVO version originally by Sylvain Boily "sboily@proformatique.com")
 
 # Set ENV
